@@ -1,0 +1,30 @@
+body{background-color: #F4FFE4;
+    color: #333333;
+    font-family: Arial, Verdana, sans-serif;}
+header{background-color: #D5EDB3;
+    color: #5c743d;
+    font-family: Georgia, "times new roman", serif;}
+h2 {background-color: #D5EDB3;
+    color: #5C743D;
+    font-family: Georgia, "times new roman", serif;
+    background-image: url(trilliumbullet.gif);
+    background-repeat: no-repeat;
+    padding-left: 30px;}
+p{font-size: .90em;}
+ul{font-weight: bold;}
+nav{font-weight: bold;
+    font-size: .75em}
+footer{font-size: .75em;
+    font-style: italic;
+    border-top: thin solid #aeaed4;
+    padding-top: 10px;
+    margin-top: 20px;}
+img {border-style: none;}
+#container {background-color: #FFFFFF;
+    padding:20px;
+    width: 80%;
+    margin: auto;
+    box-shadow: 5px 5px 5px #1E1E1E;
+    background: url(trilliumfoot.gif) no-repeat bottom right, #FFFFFF;
+    MIN-WIDTH: 800px;
+    max-width: 960px;}
